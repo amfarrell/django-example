@@ -1,4 +1,4 @@
-Django==1.9rc1
+django
 pytest
 gunicorn
 dj_database_url
